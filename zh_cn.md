@@ -63,4 +63,5 @@ wu translate
 * δ(m<sub>i</sub>, m<sub>j</sub>) = 1 for all i ≠ j
 * 同时发起全部请求
 
+在只有一批请求的意义上，这种受限制的模型是静态的；我们不需要考虑网络稳定性。
 
