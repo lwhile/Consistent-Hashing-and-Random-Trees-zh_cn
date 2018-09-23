@@ -15,3 +15,5 @@ hot spots：热点
 hot page：热页面或译高频访问页面
 
 throughput：吞吐量
+
+swamped ： 过载
