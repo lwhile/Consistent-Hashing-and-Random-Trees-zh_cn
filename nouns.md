@@ -13,3 +13,5 @@ distrib-uted network： 分布式网络
 hot spots：热点
 
 hot page：热页面或译高频访问页面
+
+throughput：吞吐量
